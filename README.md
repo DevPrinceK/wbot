@@ -1,5 +1,7 @@
 # wbot
- A whatsapp bot powered by openai
+ A whatsapp bot powered by OpenAI's DALL-E AI model. Also uses two external APIs. 
+ 1. https://api.quotable.io/random for generating random motivational quotes.
+ 2. https://api.dictionaryapi.dev/api/v2/entries/en/word for getting definitions, synonyms, antonyms, phonetics etc... 
 
 Instructions
 1. Git  clone
